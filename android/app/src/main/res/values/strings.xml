@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Capsule</string>
+    <string name="accessibility_label">Capsule island</string>
+    <string name="accessibility_description">Lets Capsule draw the island above the status bar and on the lock screen. Capsule reads no screen content.</string>
+</resources>

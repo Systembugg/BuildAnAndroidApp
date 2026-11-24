@@ -1,0 +1,10 @@
+{
+  "description": "Get guidance and practical support for planning and building an Android app, from initial ideas to development decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

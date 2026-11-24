@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shortcuts stack from the Figma kit (Group 9). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="41dp"
+    android:height="53.0797dp"
+    android:viewportWidth="41"
+    android:viewportHeight="53.0797">
+    <path
+        android:fillAlpha="0.4"
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M5.85892 37.0577C2.90745 34.8019 2.90745 30.3575 5.85892 28.1017L17.0775 19.5274C19.0979 17.9832 21.9021 17.9832 23.9225 19.5274L35.1411 28.1017C38.0926 30.3575 38.0926 34.8019 35.1411 37.0577L23.9225 45.632C21.9021 47.1762 19.0979 47.1762 17.0775 45.632L5.85892 37.0577Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M5.85892 24.978C2.90745 22.7222 2.90745 18.2779 5.85892 16.0221L17.0775 7.44774C19.0979 5.90356 21.9021 5.90356 23.9225 7.44774L35.1411 16.0221C38.0926 18.2779 38.0926 22.7222 35.1411 24.978L23.9225 33.5523C21.9021 35.0965 19.0979 35.0965 17.0775 33.5523L5.85892 24.978Z" />
+</vector>
